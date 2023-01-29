@@ -53,11 +53,12 @@ button{
     color:#fff;
     border:none;
     height:40px;
-    font-size:1.6em;
+    font-size:2em;
     padding:0 2em;
     cursor:pointer;
     transition:800ms ease all;
     outline:none;
+    font-family: 'Cute Font', "cursive";
 }
 button:hover{
   background:#fff;
@@ -68,11 +69,12 @@ label{
   color:#fff;
   border:none;
   height:40px;
-  font-size:1.6em;
+  font-size:2em;
   padding:0 2em;
   cursor:pointer;
   transition:800ms ease all;
   outline:none;
+  font-family: 'Cute Font', "cursive";
 }
 label:hover{
   background:#fff;
